@@ -1,5 +1,12 @@
 body {
-	
+	background-color: #F8F8F8;
+	text-align: center;
+	width: 50%;
+	margin-left: 25%;
+}
+
+p {
+	font-family: Helvetica, Arial, sans-serif;
 }
 
 h1, h2 {
@@ -7,4 +14,8 @@ h1, h2 {
 }
 
 img {width: 250px;
+}
+
+ul {
+	list-style-type: none;
 }
