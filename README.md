@@ -14,10 +14,10 @@ In this project, I set up all of my software and accounts including:
 Then I linked everything together and published a simple webpage demonstrating that my site is ready for the remainder of the course. The page includes placeholder links to future projects.
 
 ## Demo
-******************* PLACEHOLDER TEXT **************************
+This project does not require a demo.
 
-## Details for teaching team
-******************* PLACEHOLDER TEXT **************************
+## Details for Instructor/TA
+No additional details.
 
 ## Outside code
-******************* PLACEHOLDER TEXT **************************
+No outside code was used for this project.
